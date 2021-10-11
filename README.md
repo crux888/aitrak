@@ -1,4 +1,4 @@
-**See the [Wiki](/wiki/home) for more documentation.**
+## See the project Wiki for more documentation**
 
 ***
 
